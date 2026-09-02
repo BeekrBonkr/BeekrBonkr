@@ -2,7 +2,7 @@
 
 # Hi, I'm Michael 👋
 
-**`Linux tinkerer`** · **`GNOME extension author`** · **`Minecraft server goblin`** · **`keyboard enjoyer`**
+**`Linux tinkerer`** · **`GNOME extension author`** · **`Minecraft server nerd`** · **`keyboard enjoyer`**
 
 I learn something new every day and most of it escapes as a tool I actually use.<br>
 Everything here is free, open source, and probably had at least one `console.log("why")` in it.
