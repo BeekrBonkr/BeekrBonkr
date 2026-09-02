@@ -52,7 +52,7 @@ nested shell over D-Bus and takes its own screenshots. Yes, the tests take selfi
 
 ## ⛏️ Minecraft (Paper / MBedwars)
 
-I run a Minecraft server network — come hang out:
+I run a Minecraft server network, come hang out:
 
 <div align="center">
 
