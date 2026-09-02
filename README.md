@@ -64,7 +64,7 @@ I also **built the private Minecraft server network for [Valhallan Youth Esports
 the youth esports franchise behind the **[Esports Series Championship (ESC)](https://nationals.gg/)**.
 It's their network, closed to the public, and it runs their **weekly scheduled matches** through the season.
 It went live in **July 2026** for their annual **Bedwars** tournament. Paper and MBedwars underneath, with
-my **[Matchbook](https://github.com/BeekrBonkr/Matchbook-Releases)** plugin handling scorekeeping — fast,
+my **[Matchbook](https://github.com/BeekrBonkr/Matchbook-Releases)** plugin handling scorekeeping: fast,
 accurate and low-fuss for the people actually running the matches.
 
 |                                                                      |                                                                                                                                                                                                                                                    |
