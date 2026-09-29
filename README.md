@@ -77,6 +77,23 @@ accurate and low-fuss for the people actually running the matches.
 
 ---
 
+## 🖨️ 3D printing
+
+I model things in CAD and print them. When one turns out useful, it goes up for free.
+
+<a href="https://makerworld.com/en/@Weguishin"><img alt="MakerWorld" src="https://img.shields.io/badge/MakerWorld-Weguishin-00AE42?style=for-the-badge&logo=bambulab&logoColor=white"></a>
+<a href="https://www.printables.com/@Bonkers_435656"><img alt="Printables" src="https://img.shields.io/badge/Printables-Bonkers-FA6831?style=for-the-badge&logo=printables&logoColor=white"></a>
+
+**[DeskWiG](https://github.com/BeekrBonkr/DeskWiG)** is my ESP32 desk widget, a tiny screen for server pings, a clock,
+or whatever JSON you point it at. The case is mine too:
+
+- **[DeskWiG enclosure](https://www.printables.com/model/1860176-deskwig-esp32-desk-widget-enclosure)** - angled display
+  plus an optional rotary encoder knob. Source is on [Onshape](https://cad.onshape.com/documents/7a23cb218b9a52f763bc7c6a/w/3ad90a7117954c688588aa81/e/1314d7b6e64d683ea28f6cf7) if you want to remix it.
+- **[ESP32 Desktop Widget](https://makerworld.com/en/models/2918927-esp-32-desktop-widget)** - the original,
+  knob-free version. Just the board and the screen.
+
+---
+
 ## 🤖 Discord bots and odds and ends
 
 - **[neo-gigabot](https://github.com/BeekrBonkr/neo-gigabot)** - a slash-command recode of my old
