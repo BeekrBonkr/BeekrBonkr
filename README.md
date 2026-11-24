@@ -53,7 +53,7 @@ I run a Minecraft server network, come hang out:
 </div>
 
 I also built the private server network for **[Valhallan Youth Esports](https://valhallan.com/)**, the org behind the
-**[Esports Series Championship](https://nationals.gg/)**. It's run their weekly matches since July 2026, with **Matchbook** handling scorekeeping.
+**[Esports Series Championship](https://nationals.gg/)**. It's run their weekly matches since March 2026, with **Matchbook** handling scorekeeping.
 
 |                                                                      |                                                                                         |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
