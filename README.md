@@ -65,6 +65,20 @@ I also built the private server network for **[Valhallan Youth Esports](https://
 
 ---
 
+## 🤖 Neo-GigaBot
+
+My all-in-one Discord bot, and where most of my recent commits went.
+
+<a href="https://neogigabot.com"><img alt="Website" src="https://img.shields.io/badge/neogigabot.com-add_it_to_your_server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+- **Music** - queues and shareable playlists, with a web player you can drive from the browser.
+- **Image, GIF and video effects** - slash commands or right-click any message. Yes, there's datamosh.
+- **Server tools** - moderation, tickets and forms, all set up from the web dashboard.
+
+Source is at **[neo-gigabot](https://github.com/BeekrBonkr/neo-gigabot)**.
+
+---
+
 ## 🖨️ 3D printing
 
 I model things in CAD and print them. When one turns out useful, it goes up for free.
@@ -82,9 +96,8 @@ or whatever JSON you point it at. The case is mine too:
 
 ---
 
-## 🤖 Discord bots and odds and ends
+## 🧩 Odds and ends
 
-- **[neo-gigabot](https://github.com/BeekrBonkr/neo-gigabot)** - my all-in-one Discord bot, recoded with slash commands.
 - **[musicdisc](https://github.com/BeekrBonkr/musicdisc)** - a Discord music bot on discord.py.
 - **[samba-share-man](https://github.com/BeekrBonkr/samba-share-man)** - connect to a Samba share on Windows without a terminal.
 - **[gnome-toggle-window](https://github.com/BeekrBonkr/gnome-toggle-window)** - throws the active window to the other monitor (X11, I know).
